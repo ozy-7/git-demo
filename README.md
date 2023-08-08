@@ -1,2 +1,3 @@
-# git-demo
-Demo for Git.
+# Demo
+
+Some description.
